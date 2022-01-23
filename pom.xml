@@ -6,7 +6,7 @@
 
   <groupId>com.sample</groupId>
   <artifactId>sample</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOTS</version>
   <packaging>war</packaging>
 
   <name>sample Maven Webapp</name>
